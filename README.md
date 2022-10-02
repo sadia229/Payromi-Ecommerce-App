@@ -19,17 +19,15 @@ Project is following MVC pattern. For managing state I am using Riverpod 1.0.0. 
     │   └── data layer
     ├── view/
     │   └── presentation layer
-    ├── services/
-    │   └── helper classes
+    ├── state/
+    │   └── state layer
     └── constant
 ```
 ## Feature List
 ```
-├── Login & Sign up using Email and Password
-├── Add Task with title, description, date and time, priority
-├── Add, Update, Delete Sub Task
-├── Update Task
-└── Delete Task
+├── Login & Sign up 
+├── Payment
+├── Notification
 ```
 ## UI
 

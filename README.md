@@ -1,10 +1,37 @@
 # Payromi
 
-A new Flutter application.
+<img src="https://user-images.githubusercontent.com/108749310/193450680-ea7ff450-1d28-4a08-85f1-7ceddf8d5b24.jpg" width=470>
 
-![Untitled design](https://user-images.githubusercontent.com/108749310/193450680-ea7ff450-1d28-4a08-85f1-7ceddf8d5b24.jpg)
+## Project Environment
+```
+├── Flutter
+├── Dart
+├── Riverpod
+```
+## Code Flow:
+Project is following MVC pattern. For managing state I am using Riverpod 1.0.0. All the UI components are inside views folder. Business logic is handled inside controller folder. Model is used to parse data.
 
-# UI
+```
+└── lib/
+    ├── controller/
+    │   └── business logic layer
+    ├── model/
+    │   └── data layer
+    ├── view/
+    │   └── presentation layer
+    ├── services/
+    │   └── helper classes
+    └── constant
+```
+## Feature List
+```
+├── Login & Sign up using Email and Password
+├── Add Task with title, description, date and time, priority
+├── Add, Update, Delete Sub Task
+├── Update Task
+└── Delete Task
+```
+## UI
 
 ![Untitled design](https://user-images.githubusercontent.com/108749310/193441747-7bd379bd-55da-4ac6-8223-d97b6ddae3a9.jpg)
 

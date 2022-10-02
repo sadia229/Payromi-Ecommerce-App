@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-![ecommerce-web-page-concept-illustration_114360-8204](https://user-images.githubusercontent.com/108749310/193446082-563326e0-fc50-4eb5-b919-c7d096423a39.jpg)
+![Untitled design](https://user-images.githubusercontent.com/108749310/193450680-ea7ff450-1d28-4a08-85f1-7ceddf8d5b24.jpg)
 
 # UI
 

@@ -2,7 +2,7 @@
 
 A new Flutter application.
 
-https://st.depositphotos.com/1395715/4172/v/450/depositphotos_41725103-stock-illustration-flat-design-vector-illustration-e.jpg
+![ecommerce-web-page-concept-illustration_114360-8204](https://user-images.githubusercontent.com/108749310/193446082-563326e0-fc50-4eb5-b919-c7d096423a39.jpg)
 
 # UI
 
